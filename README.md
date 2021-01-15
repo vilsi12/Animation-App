@@ -1,3 +1,7 @@
+
+
+Liquid Swipe animation is used to slide the page like water which show different design and pattern on the screen. I have used libray to animinate I have publish it in geeks for geeks https://www.geeksforgeeks.org/flutter-liquid-swipe-animation/
+
 # Animation-App
 What is Flutter?
 Flutter is Google’s portable UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source.
